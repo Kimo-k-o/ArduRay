@@ -1,10 +1,10 @@
 ## ArduRay
-#A New Frame Description for and AUV: Melds ArduPlane and ArduSub. For BeagleBone Blue
+#A New ArduPilot Frame Description for an AUV: Melds ArduPlane and ArduSub. For BeagleBone Blue
 
 
 Hey All,
 
-I've been trying to bring to life a particular AUV (autonomous underwater vehicle) for a long time. Feels like forever coming, but it looks like the time is finally right when I can actually make it happen.
+So the story goes that I've been trying to bring to life a particular AUV (autonomous underwater vehicle) for a long time. Feels like forever coming, but it looks like the time is finally right when I can actually make it happen.
 
 The AUV I'm working on is a tremendously fun project. For me it embodies my lifelong love of ocean exploration, and brings my professional skills in optics and mechanical engineering to ocean robotics. From lengthy discussions with other engineers, the project touches on so many areas of technical interest that it clearly excites a whole spectrum of talent. Even to non-technical folks though, the OneFish seems to have a charm that captures the imagination.
 
