@@ -1,5 +1,5 @@
-## ArduRay
-# A New ArduPilot Frame Description for an AUV: Melds ArduPlane and ArduSub. For BeagleBone Blue
+# ArduRay
+## A New ArduPilot Frame Description for an AUV: Melds ArduPlane and ArduSub. For BeagleBone Blue
 
 
 Hey All,
